@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/CodingAir/TradeSystem.svg)](https://jitpack.io/#CodingAir/TradeSystem)
+aa[![](https://jitpack.io/v/CodingAir/TradeSystem.svg)](https://jitpack.io/#CodingAir/TradeSystem)
 
 # API
 When working with the API of TradeSystem, please note the library relocation as stated below.
